@@ -17,7 +17,7 @@ console.log(dolarDun);
 
 // console.log(euroDun);
 
-let konutKredileri = ["Konut Kredisi", "Emlak Konut Kredisi", "Kamu Konut Kredisi","Özel Konut Kredisi"];
+let konutKredileri = ["Konut Kredisi", "Emlak Konut Kredisi", "Kamu Konut Kredisi","Özel Konut Kredisi","Araç Kredi"];
 
 
 console.log("<ul>");
